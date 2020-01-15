@@ -1,2 +1,5 @@
 // require('./this')
-require('./FreqStack')
+// require('./FreqStack')
+// require('./promise')
+// require('./parse')
+require('./bind/bind')
